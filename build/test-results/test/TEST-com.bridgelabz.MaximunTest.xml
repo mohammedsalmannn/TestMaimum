@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.MaximunTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-05T14:33:50" hostname="DESKTOP-T79M02P" time="0.005">
+  <properties/>
+  <testcase name="estMaximum_Integer_At_ScondPoisiton_Gives_True" classname="com.bridgelabz.MaximunTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
