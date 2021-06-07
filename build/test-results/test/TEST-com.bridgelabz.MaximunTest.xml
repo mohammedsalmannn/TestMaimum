@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MaximunTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-06T14:42:03" hostname="DESKTOP-T79M02P" time="0.006">
+<testsuite name="com.bridgelabz.MaximunTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-07T02:32:28" hostname="DESKTOP-T79M02P" time="0.006">
   <properties/>
-  <testcase name="testMethod_for_Genric_Class" classname="com.bridgelabz.MaximunTest" time="0.006"/>
+  <testcase name="find_Maximum_Float_At_ThirdPoisiton_Gives_True" classname="com.bridgelabz.MaximunTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

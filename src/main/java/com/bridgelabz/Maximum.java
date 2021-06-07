@@ -16,16 +16,16 @@ public class Maximum<D extends Comparable> {
 
     //.......GenricSs MethodSs......//
 
-  //  public static <E extends Comparable> E maximum(E[] arr) {
-    //    E temp = arr[0];
-      //  for (int i = 1; i < arr.length; i++) {
-      //      if (temp.compareTo(arr[i]) < 0)
-        //        temp = arr[i];
-        //}
-      //  printMax(temp);
-        //return temp;
+    public static <D extends Comparable> D maximum(D[] arr) {
+        D temp = arr[0];
+        for (int i = 1; i < arr.length; i++) {
+            if (temp.compareTo(arr[i]) < 0)
+                temp = arr[i];
+        }
+//        printMax(temp);
+        return temp;
 
-    //}
+    }
 
     //private static <E extends Comparable> void printMax(E a) {
        // System.out.println("The Maximun Value is : " + a);
