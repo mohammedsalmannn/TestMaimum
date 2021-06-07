@@ -22,14 +22,14 @@ public class Maximum<D extends Comparable> {
             if (temp.compareTo(arr[i]) < 0)
                 temp = arr[i];
         }
-//        printMax(temp);
+        printMax(temp);
         return temp;
 
     }
 
-    //private static <E extends Comparable> void printMax(E a) {
-       // System.out.println("The Maximun Value is : " + a);
-    //}
+    private static <E extends Comparable> void printMax(E a) {
+        System.out.println("The Maximun Value is : " + a);
+    }
         //..Genrics methods
     public static<E extends Comparable> E GenMaximum( E firstValue, E secondValue, E thirdValue) {
          E max = firstValue;
